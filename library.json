@@ -1,0 +1,19 @@
+{
+"name": "SNTPClock",
+"frameworks": "Arduino",
+"keywords": "time, clock, sntp",
+"description": "Clock with SDK time functions"
+"authors":
+[
+    {
+        "name": "Peter Dobler",
+        "email": "esp8266-mail@t-online.de",
+        "maintainer": true
+    }
+],
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/Juppit/SNTPClock"
+}
+}
